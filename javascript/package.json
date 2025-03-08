@@ -1,0 +1,16 @@
+{
+  "name": "javascript",
+  "author": "Malte Hilpert",
+  "module": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^22.13.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
